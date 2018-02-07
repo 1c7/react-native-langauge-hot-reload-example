@@ -4,7 +4,7 @@ replace `react-native-i18n` with `react-native-languages` + `i18next`
 (no need to update your App everytime it support a new language, just load language dynamically!)     
 
 ## Video Demo(Youtube)
-
+https://www.youtube.com/watch?v=HkObnXf51VA
 
 ## Using 
 * [`react-native-languages`](https://github.com/react-community/react-native-languages) for detect langauge has change and run some code

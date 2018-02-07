@@ -9,5 +9,5 @@ export default i18n.init({
   debug: true,
   lng: ReactNativeLanguages.language,
   fallbackLng: 'en',
-  resources: { en, fr, de },
+  resources: { en, fr, de }
 });
