@@ -1,0 +1,6 @@
+{
+  "translation": {
+    "title": "Démo de react-native-languages",
+    "current": "Le langage courant est \"{{language}}\""
+  }
+}
