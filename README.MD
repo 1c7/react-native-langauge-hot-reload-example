@@ -1,7 +1,12 @@
-# React Native language hot reload demo
+# React Native Language hot reload demo
 
-## using 
-* `react-native-langauge`
+## Using 
+* `react-native-langauge` for detect langauge has change and run some code
 * `i18next`
-* `react-i18next`
+* React Native 0.48
+
+## Video Demo
+
+
+## Why build this demo
 
