@@ -31,4 +31,3 @@ https://github.com/AlexanderZaytsev/react-native-i18n/issues/168
 
 and then I wrote this demo, hope it help. it should save you sometime.   
 
-

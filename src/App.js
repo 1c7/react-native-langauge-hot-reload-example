@@ -16,15 +16,15 @@ export default class App extends PureComponent {
     i18n.changeLanguage(language);
   };
 
-  add_R(){
+  add_Russian(){
+    // you can run this when HTTP request return content
     i18n.addResourceBundle('ru', 'translation', {
-      "current": "russian language!!!! \"{{language}}\"",
-      'title':'asdasda'
+      "current": "Russian language!! \"{{language}}\"",
     }, true, true);
   }
 
   render() {
-    this.add_R();
+    this.add_Russian();
     return (
       <Root />
     );
