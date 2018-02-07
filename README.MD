@@ -1,8 +1,9 @@
 # React Native Language Hot Reload Demo
-replace `react-native-i18n` with `react-native-languages` + `i18next` for Hot reload language from server
-(no need to update your App everytime it support a new language, just load language dynamically)
+replace `react-native-i18n` with `react-native-languages` + `i18next`        
+(for Hot reload language from server)    
+(no need to update your App everytime it support a new language, just load language dynamically!)     
 
-## Video Demo
+## Video Demo(Youtube)
 
 
 ## Using 
@@ -42,3 +43,5 @@ https://github.com/AlexanderZaytsev/react-native-i18n/issues/168
 
 Then I wrote this demo, hope it help. it should save you some time.   
 
+#### Last
+Pull Request are welcome! :D  
