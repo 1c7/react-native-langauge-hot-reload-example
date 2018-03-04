@@ -7,7 +7,7 @@ replace `react-native-i18n` with `react-native-languages` + `i18next`
 This demo actually need a bit more work to make loading language from server work,     
 (in my case, I need load Russian langauge from my server)      
 right now it only work when you switch langauge in Android Setting, and then switch back to App.   
-I am just too lazy to write that "a bit more work"      
+I am just too lazy to write that "a bit more work", so you have to figure that out yourself.     
 Useful disscussion for this at here: https://github.com/AlexanderZaytsev/react-native-i18n/issues/168     
   
 ## Video Demo(Youtube)
