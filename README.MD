@@ -3,6 +3,11 @@ replace `react-native-i18n` with `react-native-languages` + `i18next`
 (for Hot reload language from server)    
 (no need to update your App everytime it support a new language, just load language dynamically!)     
 
+## Edit at 2018, March,4
+This demo need a bit more work to make loading language from server work,     
+(in my case, I need load Russian langauge from my server)      
+more disscussion in here: https://github.com/AlexanderZaytsev/react-native-i18n/issues/168     
+  
 ## Video Demo(Youtube)
 https://www.youtube.com/watch?v=HkObnXf51VA
 
